@@ -4,7 +4,7 @@ Esta aplicacion corresponde al desarrollo del Challenge 3 de la especializacion 
 
 ## Comenzando 🚀
 
-Para obtener una copia del proyecto y probarlo, debes hacer clic en enlace del repositorio: https://github.com/miagudelo/challenge-literalura-java  - luego debes hacer clic en el boton verde de la parte superior derecha que dice "<> Code", luego haz clic en la ultima opcion "Download Zip" para descargar los archivos, despues los debes descomprimir y abrir el proyecto desde el IDE Intellig para luego ejecutarlo desde la clase llamada ForohubApplication.
+Para obtener una copia del proyecto y probarlo, debes hacer clic en enlace del repositorio: https://github.com/miagudelo/challenge-forohubONEG6  - luego debes hacer clic en el boton verde de la parte superior derecha que dice "<> Code", luego haz clic en la ultima opcion "Download Zip" para descargar los archivos, despues los debes descomprimir y abrir el proyecto desde el IDE Intellig para luego ejecutarlo desde la clase llamada ForohubApplication.
 
 ### Pre-requisitos 📋
 
